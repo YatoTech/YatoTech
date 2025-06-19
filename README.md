@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm <span style="color:#FF2D20;">Yato</span> 👋</h1>
+  <h1>Hi there, I'm <span style="color:#FF2D20;">Yatogamii</span> 👋</h1>
   <h3>🚀 Fullstack Developer | ⚙️ Automation Specialist | ☁️ Cloud Enthusiast</h3>
 
   <p>
